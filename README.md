@@ -32,7 +32,7 @@ Real-Time Visual Feedback (Screenshots at Each Step)
 | Conversational AI     | OpenAI GPT API                    | Powerful natural language understanding & generation    |
 | Backend Scripting     | Node.js (Express.js optional)      | Fast, lightweight, async-friendly                      |
 | Browser Automation    | Puppeteer / Playwright            | Headless browser control with screenshot capabilities   |
-| UI (Optional)         | React.js / Basic HTML-CSS-JS       | Clean chat interface                                    |
+| UI                    | React.js / Basic HTML-CSS-JS       | Clean chat interface                                   |
 
 ---
 
